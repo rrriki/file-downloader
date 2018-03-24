@@ -17,7 +17,7 @@ $ go run downloader.go urls.txt
 ## Contributing
 Want to contribute? Great!
 
-Ideas and suggetions are welcome. Contact me through [REVEWARE] or make a pull request on [GitHub]
+Ideas and suggestions are welcome. Contact me through [REVEWARE] or make a pull request on [GitHub]
 
 ## License
 - MIT
